@@ -9,7 +9,7 @@ fs.createReadStream(path.resolve(__dirname, 'confirmed_cases_au_by_location.csv'
   .on('error', error => console.error(error))
   .on('data', row => {
       console.log(row);
-      //each row an be written to db
+      //each row can be written to db
       rows.push(row);
   })
   .on('end', rowCount => {
