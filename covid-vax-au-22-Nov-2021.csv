@@ -1,0 +1,335 @@
+State,Suburb,2019 ERP population,% Vaccinated - Dose 1,% Vaccinated - Dose 2
+Australian Capital Territory,Belconnen,"81,897",>95%,>95%
+Australian Capital Territory,Canberra East,"1,425",59.4%,56.9%
+Australian Capital Territory,Gungahlin,"62,920",>95%,>95%
+Australian Capital Territory,Molonglo,"5,762",>95%,>95%
+Australian Capital Territory,North Canberra,"50,872",87.2%,84.8%
+Australian Capital Territory,South Canberra,"25,641",>95%,>95%
+Australian Capital Territory,Tuggeranong,"68,222",>95%,>95%
+Australian Capital Territory,Weston Creek,"18,447",>95%,>95%
+Australian Capital Territory,Woden Valley,"29,671",>95%,>95%
+New South Wales,Albury,"52,067",>95%,>95%
+New South Wales,Armidale,"31,679",92.4%,88.9%
+New South Wales,Auburn,"86,994",94.1%,91.0%
+New South Wales,Bankstown,"147,237",93.3%,89.9%
+New South Wales,Bathurst,"39,532",>95%,93.0%
+New South Wales,Baulkham Hills,"124,066",>95%,>95%
+New South Wales,Blacktown,"115,631",>95%,>95%
+New South Wales,Blacktown - North,"85,385",>95%,>95%
+New South Wales,Blue Mountains,"64,747",>95%,>95%
+New South Wales,Botany,"45,823",>95%,>95%
+New South Wales,Bourke - Cobar - Coonamble,"18,627",94.9%,90.8%
+New South Wales,Bringelly - Green Valley,"95,140",>95%,>95%
+New South Wales,Broken Hill and Far West,"16,442",>95%,92.3%
+New South Wales,Camden,"54,746",>95%,>95%
+New South Wales,Campbelltown (NSW),"134,918",>95%,>95%
+New South Wales,Canada Bay,"78,015",87.1%,85.6%
+New South Wales,Canterbury,"118,109",92.4%,89.1%
+New South Wales,Carlingford,"60,061",>95%,94.2%
+New South Wales,Chatswood - Lane Cove,"100,502",92.2%,90.9%
+New South Wales,Clarence Valley,"42,719",>95%,91.5%
+New South Wales,Coffs Harbour,"73,660",>95%,>95%
+New South Wales,Cronulla - Miranda - Caringbah,"96,954",>95%,94.3%
+New South Wales,Dapto - Port Kembla,"64,434",>95%,93.2%
+New South Wales,Dubbo,"57,626",>95%,>95%
+New South Wales,Dural - Wisemans Ferry,"22,552",>95%,>95%
+New South Wales,Eastern Suburbs - North,"117,817",87.4%,85.6%
+New South Wales,Eastern Suburbs - South,"133,367",81.6%,79.3%
+New South Wales,Fairfield,"161,420",>95%,92.4%
+New South Wales,Gosford,"144,796",>95%,>95%
+New South Wales,Goulburn - Mulwaree,"30,569",>95%,>95%
+New South Wales,Great Lakes,"27,743",>95%,>95%
+New South Wales,Griffith - Murrumbidgee (West),"39,569",>95%,>95%
+New South Wales,Hawkesbury,"20,511",93.6%,91.9%
+New South Wales,Hornsby,"69,093",>95%,>95%
+New South Wales,Hurstville,"116,197",91.5%,89.4%
+New South Wales,Inverell - Tenterfield,"31,578",95.0%,89.3%
+New South Wales,Kempsey - Nambucca,"40,935",>95%,93.1%
+New South Wales,Kiama - Shellharbour,"77,970",>95%,>95%
+New South Wales,Kogarah - Rockdale,"131,010",86.5%,83.8%
+New South Wales,Ku-ring-gai,"102,188",>95%,>95%
+New South Wales,Lachlan Valley,"44,953",>95%,>95%
+New South Wales,Lake Macquarie - East,"100,708",>95%,>95%
+New South Wales,Lake Macquarie - West,"64,711",>95%,>95%
+New South Wales,Leichhardt,"50,360",88.4%,87.1%
+New South Wales,Lithgow - Mudgee,"38,936",>95%,93.4%
+New South Wales,Liverpool,"102,781",93.9%,91.1%
+New South Wales,Lower Hunter,"73,719",>95%,94.5%
+New South Wales,Lower Murray,"10,252",>95%,92.0%
+New South Wales,Maitland,"64,086",>95%,>95%
+New South Wales,Manly,"37,667",94.0%,92.6%
+New South Wales,Marrickville - Sydenham - Petersham,"51,903",81.1%,79.4%
+New South Wales,Merrylands - Guildford,"131,026",92.1%,88.3%
+New South Wales,Moree - Narrabri,"20,082",91.8%,86.8%
+New South Wales,Mount Druitt,"90,544",>95%,93.1%
+New South Wales,Newcastle,"145,065",94.4%,92.0%
+New South Wales,North Sydney - Mosman,"88,721",87.5%,86.2%
+New South Wales,Orange,"47,124",>95%,>95%
+New South Wales,Parramatta,"126,072",>95%,94.1%
+New South Wales,Pennant Hills - Epping,"43,793",>95%,>95%
+New South Wales,Penrith,"120,358",>95%,>95%
+New South Wales,Pittwater,"52,292",>95%,>95%
+New South Wales,Port Macquarie,"70,045",>95%,>95%
+New South Wales,Port Stephens,"61,821",>95%,>95%
+New South Wales,Queanbeyan,"50,023",>95%,>95%
+New South Wales,Richmond - Windsor,"30,738",94.9%,92.7%
+New South Wales,Richmond Valley - Coastal,"70,289",94.0%,89.0%
+New South Wales,Richmond Valley - Hinterland,"57,989",94.5%,88.4%
+New South Wales,Rouse Hill - McGraths Hill,"32,597",>95%,>95%
+New South Wales,Ryde - Hunters Hill,"126,516",91.6%,90.1%
+New South Wales,Shoalhaven,"87,732",>95%,>95%
+New South Wales,Snowy Mountains,"16,469",>95%,95.0%
+New South Wales,South Coast,"61,819",>95%,>95%
+New South Wales,Southern Highlands,"42,057",>95%,>95%
+New South Wales,St Marys,"44,863",>95%,92.8%
+New South Wales,Strathfield - Burwood - Ashfield,"146,322",89.5%,87.6%
+New South Wales,Sutherland - Menai - Heathcote,"89,683",>95%,>95%
+New South Wales,Sydney Inner City,"235,582",75.3%,73.4%
+New South Wales,Tamworth - Gunnedah,"66,551",>95%,>95%
+New South Wales,Taree - Gloucester,"46,336",>95%,94.4%
+New South Wales,Tumut - Tumbarumba,"11,786",>95%,92.9%
+New South Wales,Tweed Valley,"80,193",91.1%,85.5%
+New South Wales,Upper Hunter,"23,990",>95%,>95%
+New South Wales,Upper Murray exc. Albury,"35,669",>95%,>95%
+New South Wales,Wagga Wagga,"77,639",>95%,94.3%
+New South Wales,Warringah,"131,275",95.0%,93.3%
+New South Wales,Wollondilly,"35,241",>95%,93.0%
+New South Wales,Wollongong,"114,774",90.7%,88.9%
+New South Wales,Wyong,"134,724",>95%,94.2%
+New South Wales,Young - Yass,"29,403",>95%,>95%
+Northern Territory,Alice Springs,"30,702",83.5%,69.4%
+Northern Territory,Barkly,"4,572",54.5%,39.7%
+Northern Territory,Daly - Tiwi - West Arnhem,"13,564",51.4%,42.3%
+Northern Territory,Darwin City,"23,833",>95%,>95%
+Northern Territory,Darwin Suburbs,"44,553",>95%,84.7%
+Northern Territory,East Arnhem,"10,711",67.0%,55.6%
+Northern Territory,Katherine,"15,740",72.5%,57.2%
+Northern Territory,Litchfield,"21,009",65.6%,54.4%
+Northern Territory,Palmerston,"28,414",>95%,82.8%
+Other Territories,Christmas Island,"1,643",57.8%,53.4%
+Other Territories,Norfolk Island,"1,474",94.8%,92.1%
+Queensland,Bald Hills - Everton Park,"36,510",91.4%,83.8%
+Queensland,Beaudesert,"11,885",79.5%,65.1%
+Queensland,Beenleigh,"35,048",83.2%,68.7%
+Queensland,Biloela,"10,953",76.9%,62.5%
+Queensland,Bowen Basin - North,"25,882",72.9%,53.9%
+Queensland,Bribie - Beachmere,"31,434",>95%,84.8%
+Queensland,Brisbane Inner,"76,392",85.4%,77.6%
+Queensland,Brisbane Inner - East,"37,600",85.6%,79.6%
+Queensland,Brisbane Inner - North,"86,175",82.6%,76.5%
+Queensland,Brisbane Inner - West,"51,900",86.2%,81.0%
+Queensland,Broadbeach - Burleigh,"56,171",88.4%,77.8%
+Queensland,Browns Plains,"66,440",83.6%,67.5%
+Queensland,Buderim,"48,547",85.0%,75.4%
+Queensland,Bundaberg,"74,717",88.9%,74.5%
+Queensland,Burnett,"40,391",82.1%,66.6%
+Queensland,Caboolture,"58,295",85.4%,71.3%
+Queensland,Caboolture Hinterland,"11,963",75.4%,62.9%
+Queensland,Cairns - North,"45,616",86.5%,76.4%
+Queensland,Cairns - South,"84,526",86.0%,72.0%
+Queensland,Caloundra,"74,636",93.0%,81.9%
+Queensland,Capalaba,"60,857",91.3%,80.3%
+Queensland,Carindale,"44,896",89.4%,82.1%
+Queensland,Centenary,"27,203",>95%,88.0%
+Queensland,Central Highlands (Qld),"22,109",74.2%,57.2%
+Queensland,Charters Towers - Ayr - Ingham,"34,303",81.7%,67.0%
+Queensland,Chermside,"61,307",89.2%,81.2%
+Queensland,Cleveland - Stradbroke,"74,426",92.2%,81.4%
+Queensland,Coolangatta,"47,867",86.8%,77.1%
+Queensland,Darling Downs - East,"33,737",87.5%,73.1%
+Queensland,Darling Downs (West) - Maranoa,"34,928",86.5%,74.1%
+Queensland,Far North,"26,321",56.4%,46.3%
+Queensland,Forest Lake - Oxley,"62,188",82.9%,72.1%
+Queensland,Gladstone,"48,845",82.4%,65.3%
+Queensland,Gold Coast - North,"60,974",84.1%,73.8%
+Queensland,Gold Coast Hinterland,"16,449",80.6%,69.6%
+Queensland,Granite Belt,"33,294",88.4%,71.6%
+Queensland,Gympie - Cooloola,"42,878",80.1%,67.1%
+Queensland,Hervey Bay,"50,068",91.5%,78.9%
+Queensland,Holland Park - Yeronga,"67,987",83.5%,76.7%
+Queensland,Innisfail - Cassowary Coast,"29,085",80.8%,65.6%
+Queensland,Ipswich Hinterland,"54,544",81.8%,68.6%
+Queensland,Ipswich Inner,"89,727",87.2%,74.8%
+Queensland,Jimboomba,"42,920",83.9%,68.7%
+Queensland,Kenmore - Brookfield - Moggill,"37,931",>95%,92.5%
+Queensland,Loganlea - Carbrook,"50,861",81.6%,68.5%
+Queensland,Mackay,"92,238",86.4%,69.5%
+Queensland,Maroochy,"52,687",88.0%,77.3%
+Queensland,Maryborough,"38,920",86.7%,73.5%
+Queensland,Mt Gravatt,"64,737",88.1%,79.1%
+Queensland,Mudgeeraba - Tallebudgera,"27,894",84.3%,73.2%
+Queensland,Nambour,"37,740",90.7%,77.8%
+Queensland,Narangba - Burpengary,"53,164",88.8%,75.7%
+Queensland,Nathan,"34,712",83.3%,76.2%
+Queensland,Nerang,"57,368",79.9%,68.0%
+Queensland,Noosa,"38,011",91.7%,81.1%
+Queensland,Noosa Hinterland,"19,547",80.5%,69.5%
+Queensland,North Lakes,"66,172",84.5%,73.8%
+Queensland,Nundah,"36,223",87.3%,79.7%
+Queensland,Ormeau - Oxenford,"113,882",85.3%,72.3%
+Queensland,Outback - North,"22,584",74.1%,58.2%
+Queensland,Outback - South,"13,849",85.5%,75.8%
+Queensland,Port Douglas - Daintree,"10,257",84.2%,72.1%
+Queensland,Redcliffe,"52,682",92.4%,81.8%
+Queensland,Robina,"44,921",80.7%,70.4%
+Queensland,Rockhampton,"95,434",81.4%,66.4%
+Queensland,Rocklea - Acacia Ridge,"51,532",89.3%,78.1%
+Queensland,Sandgate,"50,464",88.6%,79.9%
+Queensland,Sherwood - Indooroopilly,"48,389",80.5%,75.7%
+Queensland,Southport,"54,339",83.8%,72.2%
+Queensland,Springfield - Redbank,"73,814",83.9%,70.1%
+Queensland,Springwood - Kingston,"62,085",83.6%,69.6%
+Queensland,Strathpine,"31,207",89.7%,77.7%
+Queensland,Sunnybank,"43,962",86.9%,76.9%
+Queensland,Sunshine Coast Hinterland,"44,613",86.5%,74.2%
+Queensland,Surfers Paradise,"40,540",82.6%,72.8%
+Queensland,Tablelands (East) - Kuranda,"34,362",83.7%,70.0%
+Queensland,The Gap - Enoggera,"43,053",90.2%,83.0%
+Queensland,The Hills District,"72,202",92.9%,84.1%
+Queensland,Toowoomba,"126,770",88.3%,75.7%
+Queensland,Townsville,"156,191",83.1%,71.4%
+Queensland,Whitsunday,"18,702",78.9%,63.3%
+Queensland,Wynnum - Manly,"58,658",90.5%,81.2%
+South Australia,Adelaide City,"24,015",89.9%,81.1%
+South Australia,Adelaide Hills,"61,174",94.5%,85.4%
+South Australia,Barossa,"30,428",85.2%,75.7%
+South Australia,Burnside,"37,949",>95%,90.8%
+South Australia,Campbelltown (SA),"43,979",91.0%,81.1%
+South Australia,Charles Sturt,"97,529",85.8%,75.2%
+South Australia,Eyre Peninsula and South West,"46,484",82.3%,72.3%
+South Australia,Fleurieu - Kangaroo Island,"45,599",89.8%,81.1%
+South Australia,Gawler - Two Wells,"29,610",89.3%,76.5%
+South Australia,Holdfast Bay,"30,763",94.0%,87.3%
+South Australia,Limestone Coast,"54,458",90.0%,77.7%
+South Australia,Lower North,"19,085",84.7%,75.0%
+South Australia,Marion,"79,151",90.2%,81.7%
+South Australia,Mid North,"22,873",85.7%,75.0%
+South Australia,Mitcham,"54,485",94.3%,87.8%
+South Australia,Murray and Mallee,"60,421",83.6%,71.6%
+South Australia,Norwood - Payneham - St Peters,"31,585",90.2%,82.8%
+South Australia,Onkaparinga,"141,953",87.7%,78.8%
+South Australia,Outback - North and East,"21,350",71.0%,60.2%
+South Australia,Playford,"73,131",80.4%,65.3%
+South Australia,Port Adelaide - East,"59,652",88.5%,77.7%
+South Australia,Port Adelaide - West,"50,456",86.7%,75.0%
+South Australia,Prospect - Walkerville,"24,445",91.9%,83.9%
+South Australia,Salisbury,"113,398",84.8%,72.2%
+South Australia,Tea Tree Gully,"79,032",90.0%,80.0%
+South Australia,Unley,"32,926",90.8%,85.3%
+South Australia,West Torrens,"54,703",87.0%,77.6%
+South Australia,Yorke Peninsula,"22,370",88.9%,78.1%
+Tasmania,Brighton,"14,098",93.9%,84.5%
+Tasmania,Burnie - Ulverstone,"40,308",90.2%,80.9%
+Tasmania,Central Highlands (Tas.),"9,530",81.9%,72.3%
+Tasmania,Devonport,"38,403",89.3%,79.4%
+Tasmania,Hobart - North East,"45,522",>95%,92.2%
+Tasmania,Hobart - North West,"45,079",>95%,89.9%
+Tasmania,Hobart - South and West,"28,145",>95%,93.6%
+Tasmania,Hobart Inner,"46,733",>95%,93.5%
+Tasmania,Huon - Bruny Island,"17,102",89.9%,81.4%
+Tasmania,Launceston,"69,635",93.1%,85.4%
+Tasmania,Meander Valley - West Tamar,"19,348",88.1%,79.8%
+Tasmania,North East,"31,994",89.2%,80.8%
+Tasmania,Sorell - Dodges Ferry,"14,146",94.5%,85.0%
+Tasmania,South East Coast,"6,169",>95%,92.7%
+Tasmania,West Coast,"14,114",81.8%,73.5%
+Victoria,Ballarat,"90,002",>95%,>95%
+Victoria,Banyule,"107,578",93.9%,91.2%
+Victoria,Barwon - West,"16,203",>95%,>95%
+Victoria,Baw Baw,"42,972",>95%,>95%
+Victoria,Bayside,"87,219",>95%,94.4%
+Victoria,Bendigo,"81,267",>95%,>95%
+Victoria,Boroondara,"152,911",90.5%,88.6%
+Victoria,Brimbank,"163,724",91.9%,86.5%
+Victoria,Brunswick - Coburg,"86,451",80.4%,77.7%
+Victoria,Campaspe,"31,106",>95%,>95%
+Victoria,Cardinia,"86,426",>95%,>95%
+Victoria,Casey - North,"113,118",94.0%,89.5%
+Victoria,Casey - South,"160,114",>95%,>95%
+Victoria,Colac - Corangamite,"30,801",>95%,>95%
+Victoria,Creswick - Daylesford - Ballan,"24,506",>95%,93.7%
+Victoria,Dandenong,"169,426",92.9%,87.8%
+Victoria,Darebin - North,"89,592",82.5%,78.6%
+Victoria,Darebin - South,"49,429",82.4%,79.8%
+Victoria,Essendon,"63,129",86.9%,84.3%
+Victoria,Frankston,"115,844",93.1%,89.2%
+Victoria,Geelong,"169,264",>95%,94.4%
+Victoria,Gippsland - East,"39,696",>95%,>95%
+Victoria,Gippsland - South West,"54,867",>95%,>95%
+Victoria,Glen Eira,"135,804",90.2%,87.5%
+Victoria,Glenelg - Southern Grampians,"29,881",>95%,>95%
+Victoria,Grampians,"48,898",>95%,>95%
+Victoria,Heathcote - Castlemaine - Kyneton,"41,502",>95%,>95%
+Victoria,Hobsons Bay,"74,997",90.6%,87.1%
+Victoria,Keilor,"53,292",92.5%,89.0%
+Victoria,Kingston,"105,282",92.7%,89.9%
+Victoria,Knox,"135,630",>95%,92.1%
+Victoria,Latrobe Valley,"61,690",>95%,92.1%
+Victoria,Loddon - Elmore,"9,644",93.2%,89.4%
+Victoria,Macedon Ranges,"25,326",>95%,>95%
+Victoria,Manningham - East,"22,780",>95%,92.8%
+Victoria,Manningham - West,"83,836",>95%,92.3%
+Victoria,Maribyrnong,"79,009",84.5%,81.2%
+Victoria,Maroondah,"96,054",93.9%,90.9%
+Victoria,Maryborough - Pyrenees,"21,896",>95%,94.2%
+Victoria,Melbourne City,"168,301",75.7%,72.5%
+Victoria,Melton - Bacchus Marsh,"140,067",>95%,94.0%
+Victoria,Mildura,"45,044",>95%,>95%
+Victoria,Moira,"24,759",>95%,>95%
+Victoria,Monash,"164,481",89.9%,86.6%
+Victoria,Moreland - North,"69,193",87.7%,83.3%
+Victoria,Mornington Peninsula,"138,719",>95%,>95%
+Victoria,Murray River - Swan Hill,"30,518",>95%,>95%
+Victoria,Nillumbik - Kinglake,"55,792",>95%,>95%
+Victoria,Port Phillip,"102,172",80.6%,78.0%
+Victoria,Shepparton,"52,875",>95%,>95%
+Victoria,Stonnington - East,"38,392",89.1%,87.1%
+Victoria,Stonnington - West,"65,508",78.4%,76.2%
+Victoria,Sunbury,"35,526",>95%,93.7%
+Victoria,Surf Coast - Bellarine Peninsula,"66,903",>95%,>95%
+Victoria,Tullamarine - Broadmeadows,"147,953",>95%,92.0%
+Victoria,Upper Goulburn Valley,"47,533",>95%,94.7%
+Victoria,Wangaratta - Benalla,"39,069",>95%,>95%
+Victoria,Warrnambool,"42,288",>95%,>95%
+Victoria,Wellington,"36,407",>95%,>95%
+Victoria,Whitehorse - East,"53,609",>95%,92.6%
+Victoria,Whitehorse - West,"96,551",90.8%,87.9%
+Victoria,Whittlesea - Wallan,"195,819",94.1%,89.2%
+Victoria,Wodonga - Alpine,"59,893",>95%,>95%
+Victoria,Wyndham,"205,788",>95%,>95%
+Victoria,Yarra,"91,154",78.3%,76.2%
+Victoria,Yarra Ranges,"128,460",>95%,91.7%
+Western Australia,Albany,"49,479",86.4%,73.3%
+Western Australia,Armadale,"69,570",84.9%,70.6%
+Western Australia,Augusta - Margaret River - Busselton,"44,339",89.5%,76.7%
+Western Australia,Bayswater - Bassendean,"69,815",85.3%,74.3%
+Western Australia,Belmont - Victoria Park,"63,546",82.1%,71.3%
+Western Australia,Bunbury,"83,581",87.4%,74.0%
+Western Australia,Canning,"79,249",92.7%,81.5%
+Western Australia,Cockburn,"89,272",85.1%,73.7%
+Western Australia,Cottesloe - Claremont,"59,481",93.9%,88.4%
+Western Australia,East Pilbara,"20,353",54.2%,40.9%
+Western Australia,Esperance,"12,644",84.3%,70.1%
+Western Australia,Fremantle,"33,152",90.9%,81.9%
+Western Australia,Gascoyne,"7,464",71.6%,58.4%
+Western Australia,Goldfields,"30,033",73.1%,56.2%
+Western Australia,Gosnells,"97,821",84.7%,70.8%
+Western Australia,Joondalup,"129,209",93.0%,83.1%
+Western Australia,Kalamunda,"47,373",87.4%,75.3%
+Western Australia,Kimberley,"26,881",70.0%,56.9%
+Western Australia,Kwinana,"34,833",80.3%,66.5%
+Western Australia,Mandurah,"84,465",89.2%,74.4%
+Western Australia,Manjimup,"18,890",88.4%,75.3%
+Western Australia,Melville,"86,700",93.4%,85.3%
+Western Australia,Mid West,"42,212",86.0%,69.9%
+Western Australia,Mundaring,"35,212",86.9%,74.0%
+Western Australia,Perth City,"95,361",89.1%,81.0%
+Western Australia,Rockingham,"105,744",83.2%,69.8%
+Western Australia,Serpentine - Jarrahdale,"24,737",77.7%,63.6%
+Western Australia,South Perth,"37,503",83.7%,76.5%
+Western Australia,Stirling,"167,695",85.8%,75.6%
+Western Australia,Swan,"111,894",85.3%,70.9%
+Western Australia,Wanneroo,"161,088",82.4%,70.1%
+Western Australia,West Pilbara,"28,179",51.8%,38.9%
+Western Australia,Wheat Belt - North,"46,015",82.1%,68.9%
+Western Australia,Wheat Belt - South,"15,925",85.8%,74.3%
