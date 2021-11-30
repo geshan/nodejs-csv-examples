@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-csv-examples",
+  "version": "1.0.0",
+  "description": "Examples using fast csv npm module to parse and write CSVs with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geshan/nodejs-csv-examples.git"
+  },
+  "keywords": [
+    "node.js",
+    "csv"
+  ],
+  "author": "Geshan Manandhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geshan/nodejs-csv-examples/issues"
+  },
+  "homepage": "https://github.com/geshan/nodejs-csv-examples#readme",
+  "dependencies": {
+    "fast-csv": "^4.3.6"
+  }
+}
