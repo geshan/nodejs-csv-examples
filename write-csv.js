@@ -18,6 +18,6 @@ for(i=0; i<noOfRows; i++) {
   stream.write(randoms[i]);
 }
 
-console.log(randoms[79999].number);
+console.log(randoms[79999].number);//with randoms array, all data could have been written at the end too
 stream.end();
 console.log(`${fileName} written with stream and ${noOfRows} rows`);
